@@ -10,13 +10,6 @@ The notebook is designed as a more polished and explainable final workflow rathe
 
 The goal of this project is to predict whether a loan applicant is likely to default. The notebook focuses on binary classification, where the target variable represents repayment risk.
 
-This workflow is especially useful for:
-
-- academic credit risk projects
-- portfolio demonstrations
-- learning feature engineering for tabular financial data
-- comparing tree-based models and linear models on imbalanced classification tasks
-
 ## Main Highlights
 
 - Flexible dataset path loading for easier reuse on different machines
